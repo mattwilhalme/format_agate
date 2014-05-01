@@ -37,9 +37,13 @@ CLEVELAND INDIANS — Placed 3B Lonnie Chisenhall on the paternity list. Recalle
 FORMATTED EXAMPLE
 
 BASEBALL
+
 MLB—Suspended Texas minor-league pitcher Martire Garcia 50 games after testing positive for Clomiphene, a performance-enhancing substance. 
+
 Chicago White Sox—Put outfielder Avisail Garcia on the 15-day DL; recalled outfielder Jordan Danks from Charlotte (IL). 
+
 Cleveland—Put third baseman Lonnie Chisenhall on the paternity list; recalled infielder Justin Sellers from Columbus (IL).
+
 Minnesota—Selected the contract of outfielder Darin Mastroianni from Rochester (IL).
 
 
