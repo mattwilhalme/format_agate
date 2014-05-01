@@ -2,6 +2,7 @@ format_agate
 ============
 
 DESCRIPTION
+
 Formats transactions and other agate for print.
 
 In order to save myself time while working on the agate desk I am working on a program to format sports agate for print manually copied from wires. This project will use regex to search, find and replace abbreviations and sub words stylistically.
